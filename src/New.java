@@ -5,7 +5,7 @@ public class New {
 
 		String s = "JAVA";
 		System.out.println(s);
-		String s1 ="SELENIUM";
+		String s1 ="FRAMEWORK";
 	    System.out.println(s1);
 	    
 
